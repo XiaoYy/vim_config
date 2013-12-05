@@ -1,0 +1,17 @@
+
+[credential]
+helper = /opt/boxen/bin/boxen-git-credential
+
+[core]
+excludesfile = /opt/boxen/config/git/gitignore
+
+[hub]
+protocol = https
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+[user]
+    name = Brad
+	email = dreamfanbin@gmail.com

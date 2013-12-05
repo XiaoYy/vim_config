@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/mdpi/projects/mdpicn/app/assets/stylesheets'
+let g:netrw_dirhist_2='/var/www/html/susy.mdpi.com-sf2.3/src/MDPI/SusyBundle/Controller/ManuscriptController'
+let g:netrw_dirhist_3='/var/www/html/susy.mdpi.com/vendor/mdpi/feed-bundle/MDPI/FeedBundle/Storage/Type'
+let g:netrw_dirhist_4='/Users/meng/Downloads/zhou-vim'
+let g:netrw_dirhist_5='/Users/meng'
+let g:netrw_dirhist_6='/Users/meng/pro/xml-html'
+let g:netrw_dirhist_7='/Users/meng/pro/xml-html/app/controllers'
+let g:netrw_dirhist_8='/Users/meng/pro/xml-html/app/views/articles'
